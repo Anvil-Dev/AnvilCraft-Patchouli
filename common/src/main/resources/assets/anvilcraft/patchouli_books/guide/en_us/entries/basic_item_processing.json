@@ -81,6 +81,7 @@
     },
     {
       "type": "patchouli:multiblock",
+      "anchor": "mesh",
       "name": "Items Sifting",
       "multiblock": {
         "mapping": {
