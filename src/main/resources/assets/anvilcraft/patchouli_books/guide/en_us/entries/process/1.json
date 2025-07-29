@@ -45,7 +45,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:basic/geode",
+        "anvilcraft:basic/material",
         "anvilcraft:basic/amethyst_tools",
         "anvilcraft:machine/resources_access"
       ],
