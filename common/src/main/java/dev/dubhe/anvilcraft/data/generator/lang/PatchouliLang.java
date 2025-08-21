@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.data.generator.lang;
+package dev.dubhe.anvilcraft.data.lang;
 
 import com.tterrag.registrate.providers.RegistrateLangProvider;
 import org.jetbrains.annotations.NotNull;
@@ -13,6 +13,8 @@ public class PatchouliLang {
     public static void init(@NotNull RegistrateLangProvider provider) {
         provider.add("message.anvilcraft.need_patchouli_installed", "Patchouli needs to be installed");
 
-        provider.add("patchouli.anvilcraft.landing_text", "Welcome to AnvilCraft");
+        provider.add("patchouli.anvilcraft.landing_text", "Welcome to AnvilCraft.");
+
+        provider.add("gui.anvilcraft.category.anvil_collision_craft_speed", "Speed: %d m/tick");
     }
 }
