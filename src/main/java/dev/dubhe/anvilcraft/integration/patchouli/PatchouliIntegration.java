@@ -1,7 +1,6 @@
 package dev.dubhe.anvilcraft.integration.patchouli;
 
 import dev.dubhe.anvilcraft.AnvilCraft;
-import dev.dubhe.anvilcraft.api.integration.Integration;
 import dev.dubhe.anvilcraft.integration.patchouli.page.PageAnvilCollisionCraft;
 import dev.dubhe.anvilcraft.integration.patchouli.page.PageBlockCompress;
 import dev.dubhe.anvilcraft.integration.patchouli.page.PageBulging;
