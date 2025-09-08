@@ -4,21 +4,19 @@
   "icon": "anvilcraft:corrupted_beacon",
   "sortnum": 13004,
   "entry_color": "004400",
-  "extra_recipe_mappings": {
-    "anvilcraft:corrupted_beacon": 1
-  },
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Release the Wither's power that been sealed in the normal beacon. Will give entities in its beam $(thing)Wither$() effect. Some mobs will transform to another mob, and it can also go on with Anvils."
+      "text": "Will give entities in its beam $(thing)Wither$() effect. Some mobs will transform to another mob. Put the activated Corrupted Beacon under the cauldron, and then you can use it together with the anvil for time-warp processing. $(p)$(#888888)Release the Wither's power that been sealed in the normal beacon.$()"
     },
     {
       "type": "patchouli:spotlight",
       "anchor": "corrupted_beacon",
+      "link_recipe": true,
       "item": "anvilcraft:corrupted_beacon",
-      "text": "When you fully using $(l:smithing/tier_1_materials#cursed_gold_block)Cursed Gold Block$() as the base of beacons and use $(l:smithing/tier_1_materials#cursed_gold_ingot)Cursed Gold Ingot$() to activate it, the beacon will have chance to convert into $(item)Corrupted Beacon$(). The more layers of the base, the higher the conversion probability. Use Cursed Gold Ingot to activate beacons will make weather set to Thunder."
+      "text": "When you fully using $(l:smithing/tier_1_materials#cursed_gold_block)Cursed Gold Block$() as the base of beacons and use $(l:smithing/tier_1_materials#cursed_gold_ingot)Cursed Gold Ingot$() to activate it, the beacon will have chance to convert into $(item)Corrupted Beacon$(). The more layers of the base, the higher the conversion probability.$(br)($(thing)Automation Method$(): Use an anvil to press the curse gold ingot into the beacon. The probabilities are the same.) $(p)Use Cursed Gold Ingot to activate beacons will make weather set to Thunder."
     },
-    "Mob Transform: $(br)$(thing)Pig$()→$(thing)Hoglin$()$(br)$(thing)Cow$()→$(thing)Ravager$()$(br)$(thing)Guardian$()→$(thing)Elder Guardian$()$(br)$(thing)Piglin$()→$(thing)Piglin Brute$()$(br)$(thing)Villager$()→30%$(thing)Pillager$()、60%$(thing)Vindicator$()、10%$(thing)Evoker$()$(br)$(thing)Allay$()→$(thing)Vex$()$(br)$(thing)Bat$()→$(thing)Phantom$()$(br)$(thing)Horse$()→10%$(thing)Zombie Horse$()、90%$(thing)Skeleton Horse$()$(br)$(thing)Silverfish$()→$(thing)Endermite$()",
+    "Mob Transform: $(br)Pig→$(thing)Hoglin$()$(br)Cow→$(thing)Ravager$()$(br)Guardian→$(thing)Elder Guardian$()$(br)Piglin→$(thing)Piglin Brute$()$(br)Villager→30%$(thing)Pillager$()、60%$(thing)Vindicator$()、10%$(thing)Evoker$()$(br)Allay→$(thing)Vex$()$(br)Bat→$(thing)Phantom$()$(br)Horse→10%$(thing)Zombie Horse$()、90%$(thing)Skeleton Horse$()$(br)Silverfish→$(thing)Endermite$()$(br)Skeleton→20%$(thing)Wither Skeleton$()、80%$(thing)Stray$() $(br)villager's Iron Golem→$(thing)Warden()",
     {
       "type": "patchouli:multiblock",
       "anchor": "time_warp",
@@ -46,38 +44,18 @@
     },
     {
       "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/coal_from_logs",
-      "recipe2": "anvilcraft:time_warp/coal"
-    },
-    {
-      "type": "anvilcraft:time_warp",
       "recipe": "anvilcraft:time_warp/raw_copper",
-      "recipe2": "anvilcraft:time_warp/raw_iron"
+      "text": "Metals can be transformed into coarse ores"
     },
     {
       "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/raw_gold",
-      "recipe2": "anvilcraft:time_warp/raw_silver"
+      "recipe": "anvilcraft:time_warp/budding_amethyst",
+      "recipe2": "anvilcraft:time_warp/wither_skeleton_skull"
     },
     {
       "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/raw_tungsten",
-      "recipe2": "anvilcraft:time_warp/raw_titanium"
-    },
-    {
-      "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/raw_zinc",
-      "recipe2": "anvilcraft:time_warp/raw_tin"
-    },
-    {
-      "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/raw_lead",
-      "recipe2": "anvilcraft:time_warp/ancient_debris"
-    },
-    {
-      "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/wither_skeleton_skull",
-      "recipe2": "anvilcraft:time_warp/wither_rose"
+      "recipe": "anvilcraft:time_warp/wither_rose",
+      "recipe2": "anvilcraft:time_warp/dirt"
     },
     {
       "type": "anvilcraft:time_warp",
@@ -86,18 +64,8 @@
     },
     {
       "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/dirt",
-      "recipe2": "anvilcraft:time_warp/amber"
-    },
-    {
-      "type": "anvilcraft:time_warp",
       "recipe": "anvilcraft:time_warp/soul_soil",
       "recipe2": "anvilcraft:time_warp/crying_obsidian"
-    },
-    {
-      "type": "anvilcraft:time_warp",
-      "recipe": "anvilcraft:time_warp/sea_heart_shell",
-      "recipe2": "anvilcraft:time_warp/budding_amethyst"
     },
     {
       "type": "anvilcraft:time_warp",
