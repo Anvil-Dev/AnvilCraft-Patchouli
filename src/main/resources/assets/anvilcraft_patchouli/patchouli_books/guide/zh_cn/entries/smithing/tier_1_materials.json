@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.smithing.tier_1_materials",
-  "category": "anvilcraft:smithing_system",
+  "name": "title.anvilcraft_patchouli.patchouli.smithing.tier_1_materials",
+  "category": "anvilcraft_patchouli:smithing_system",
   "icon": "anvilcraft:royal_steel_ingot",
   "sortnum": 13002,
   "entry_color": "004400",
@@ -28,7 +28,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/tier_1_forge"
+        "anvilcraft_patchouli:smithing/tier_1_forge"
       ],
       "text": ""
     }

@@ -1,6 +1,6 @@
 @MethodsReturnNonnullByDefault
 @ParametersAreNonnullByDefault
-package dev.dubhe.anvilcraft.integration.patchouli;
+package dev.anvilcraft.patchouli;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 

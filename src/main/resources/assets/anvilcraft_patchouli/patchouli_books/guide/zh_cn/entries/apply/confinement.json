@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.confinement",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.confinement",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "anvilcraft:confinement_chamber",
   "sortnum": 36002,
   "entry_color": "660066",

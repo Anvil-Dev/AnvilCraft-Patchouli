@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.nuclear",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.nuclear",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:uranium_ingot",
   "sortnum": 32010,
   "entry_color": "660066",
@@ -8,7 +8,10 @@
     "本章节将会讲述：$(li)如何借助核能产生大量的电力 $(p)$(#880000)注意$():携带18组铀/钚(块/锭/粒)会受到凋零效果",
     {
       "type": "patchouli:spotlight",
-      "item": ["anvilcraft:plutonium_block","anvilcraft:uranium_block"],
+      "item": [
+        "anvilcraft:plutonium_block",
+        "anvilcraft:uranium_block"
+      ],
       "title": "放射性同位素热电机 RTG",
       "text": "铀块和钚块可以为$(l:power/heat_collection)集热器$()提供热能用以发电: $(li)$(item)铀块$():2kW $(li)$(item)钚块$():8kW"
     },
@@ -28,10 +31,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/collision",
-        "anvilcraft:advanced/special_heated_block",
-        "anvilcraft:power/heat_collection",
-        "anvilcraft:smithing/tier_3_materials"
+        "anvilcraft_patchouli:struct/collision",
+        "anvilcraft_patchouli:advanced/special_heated_block",
+        "anvilcraft_patchouli:power/heat_collection",
+        "anvilcraft_patchouli:smithing/tier_3_materials"
       ],
       "text": ""
     }

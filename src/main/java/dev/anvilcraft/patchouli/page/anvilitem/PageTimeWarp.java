@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem;
+package dev.anvilcraft.patchouli.page.anvilitem;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import dev.anvilcraft.lib.recipe.component.ItemIngredientPredicate;
@@ -23,7 +23,8 @@ public class PageTimeWarp extends PageAnvilItemProcess<TimeWarpRecipe> {
             TimeWarpRecipe::getInputItems,
             TimeWarpRecipe::getResultItems,
             PageTimeWarp::getCauldron,
-            recipe -> ModBlocks.CORRUPTED_BEACON.getDefaultState());
+            recipe -> ModBlocks.CORRUPTED_BEACON.getDefaultState()
+        );
     }
 
     @Override

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.smithing.ranged_weapons",
-  "category": "anvilcraft:smithing_system",
+  "name": "title.anvilcraft_patchouli.patchouli.smithing.ranged_weapons",
+  "category": "anvilcraft_patchouli:smithing_system",
   "icon": "anvilcraft:spectral_slingshot",
   "sortnum": 13005,
   "entry_color": "004400",

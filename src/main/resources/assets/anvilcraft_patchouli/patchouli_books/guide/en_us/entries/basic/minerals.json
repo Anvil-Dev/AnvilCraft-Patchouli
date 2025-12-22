@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.minerals",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.minerals",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "anvilcraft:lead_ingot",
   "sortnum": 1006,
   "extra_recipe_mappings": {

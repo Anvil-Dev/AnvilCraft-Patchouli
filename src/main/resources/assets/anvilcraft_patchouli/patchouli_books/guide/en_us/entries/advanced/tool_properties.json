@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.advanced.tool_properties",
-  "category": "anvilcraft:advanced_features",
+  "name": "title.anvilcraft_patchouli.patchouli.advanced.tool_properties",
+  "category": "anvilcraft_patchouli:advanced_features",
   "icon": "anvilcraft:frost_metal_pickaxe",
   "sortnum": 27004,
   "entry_color": "661100",

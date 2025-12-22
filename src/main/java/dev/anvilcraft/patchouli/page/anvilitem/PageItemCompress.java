@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem;
+package dev.anvilcraft.patchouli.page.anvilitem;
 
 import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;
 import dev.dubhe.anvilcraft.recipe.anvil.wrap.ItemCompressRecipe;
@@ -11,6 +11,7 @@ public class PageItemCompress extends PageAnvilItemProcess<ItemCompressRecipe> {
             ItemCompressRecipe::getInputItems,
             ItemCompressRecipe::getResultItems,
             recipe -> Blocks.CAULDRON.defaultBlockState(),
-            null);
+            null
+        );
     }
 }

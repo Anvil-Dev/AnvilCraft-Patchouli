@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process",
-  "description": "intro.anvilcraft.patchouli.process",
+  "name": "title.anvilcraft_patchouli.patchouli.process",
+  "description": "intro.anvilcraft_patchouli.patchouli.process",
   "sortnum": 0,
   "icon": "minecraft:compass"
 }

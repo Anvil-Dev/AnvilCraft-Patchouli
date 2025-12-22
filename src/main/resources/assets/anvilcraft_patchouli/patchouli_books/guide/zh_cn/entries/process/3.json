@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.3",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.3",
+  "category": "anvilcraft_patchouli:process",
   "icon": "minecraft:anvil",
   "sortnum": 3,
   "pages": [
@@ -68,9 +68,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:basic/block_processing",
-        "anvilcraft:basic/item_processing",
-        "anvilcraft:basic/material"
+        "anvilcraft_patchouli:basic/block_processing",
+        "anvilcraft_patchouli:basic/item_processing",
+        "anvilcraft_patchouli:basic/material"
       ],
       "text": "左图中，冲压平台可以换成别的方块，下方还可以增加营火等方块，详细处理类别见铁砧处理相关章节。"
     }

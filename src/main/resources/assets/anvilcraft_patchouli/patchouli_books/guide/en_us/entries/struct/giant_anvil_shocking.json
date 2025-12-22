@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.struct.giant_anvil_shocking",
-  "category": "anvilcraft:structural_engineering",
+  "name": "title.anvilcraft_patchouli.patchouli.struct.giant_anvil_shocking",
+  "category": "anvilcraft_patchouli:structural_engineering",
   "icon": "anvilcraft:giant_anvil",
   "sortnum": 15003,
   "entry_color": "004400",

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.space_overcompressor",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.space_overcompressor",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "anvilcraft:space_overcompressor",
   "sortnum": 26008,
   "entry_color": "661100",

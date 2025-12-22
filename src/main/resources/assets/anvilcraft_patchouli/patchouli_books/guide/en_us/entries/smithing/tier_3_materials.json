@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.smithing.tier_3_materials",
-  "category": "anvilcraft:smithing_system",
+  "name": "title.anvilcraft_patchouli.patchouli.smithing.tier_3_materials",
+  "category": "anvilcraft_patchouli:smithing_system",
   "icon": "anvilcraft:transcendium_ingot",
   "sortnum": 33008,
   "entry_color": "660066",
@@ -70,10 +70,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/collision",
-        "anvilcraft:advanced/tool_properties",
-        "anvilcraft:advanced/special_heated_block",
-        "anvilcraft:apply/neutron_irradiator"
+        "anvilcraft_patchouli:struct/collision",
+        "anvilcraft_patchouli:advanced/tool_properties",
+        "anvilcraft_patchouli:advanced/special_heated_block",
+        "anvilcraft_patchouli:apply/neutron_irradiator"
       ]
     }
   ]

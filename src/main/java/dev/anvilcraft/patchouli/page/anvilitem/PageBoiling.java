@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem;
+package dev.anvilcraft.patchouli.page.anvilitem;
 
 import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;
 import dev.dubhe.anvilcraft.recipe.anvil.wrap.BoilingRecipe;
@@ -12,6 +12,7 @@ public class PageBoiling extends PageAnvilItemProcess<BoilingRecipe> {
             BoilingRecipe::getInputItems,
             BoilingRecipe::getResultItems,
             recipe -> CauldronUtil.fullState(Blocks.WATER_CAULDRON),
-            recipe -> Blocks.CAMPFIRE.defaultBlockState());
+            recipe -> Blocks.CAMPFIRE.defaultBlockState()
+        );
     }
 }

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.13",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.13",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:acceleration_ring",
   "sortnum": 13,
   "entry_color": "661100",
@@ -14,11 +14,11 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:power/large_electromagnet",
-        "anvilcraft:struct/collision",
-        "anvilcraft:power/negative_matter",
-        "anvilcraft:power/nuclear",
-        "anvilcraft:smithing/tier_2_forge"
+        "anvilcraft_patchouli:power/large_electromagnet",
+        "anvilcraft_patchouli:struct/collision",
+        "anvilcraft_patchouli:power/negative_matter",
+        "anvilcraft_patchouli:power/nuclear",
+        "anvilcraft_patchouli:smithing/tier_2_forge"
       ],
       "text": ""
     }

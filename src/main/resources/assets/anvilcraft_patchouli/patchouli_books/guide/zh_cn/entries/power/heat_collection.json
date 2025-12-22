@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.heat_collection",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.heat_collection",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:heat_collector",
   "sortnum": 12005,
   "entry_color": "004400",
@@ -126,9 +126,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:advanced/heated_block",
-        "anvilcraft:apply/oil",
-        "anvilcraft:prop/storage_block"
+        "anvilcraft_patchouli:advanced/heated_block",
+        "anvilcraft_patchouli:apply/oil",
+        "anvilcraft_patchouli:prop/storage_block"
       ],
       "text": ""
     }

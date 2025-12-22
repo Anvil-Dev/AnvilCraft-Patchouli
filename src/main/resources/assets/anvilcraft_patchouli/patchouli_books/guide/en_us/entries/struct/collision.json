@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.struct.collision",
-  "category": "anvilcraft:structural_engineering",
+  "name": "title.anvilcraft_patchouli.patchouli.struct.collision",
+  "category": "anvilcraft_patchouli:structural_engineering",
   "icon": "anvilcraft:acceleration_ring",
   "sortnum": 25005,
   "entry_color": "661100",
@@ -71,7 +71,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:power/large_electromagnet"
+        "anvilcraft_patchouli:power/large_electromagnet"
       ],
       "text": ""
     }

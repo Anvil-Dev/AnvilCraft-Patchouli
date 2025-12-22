@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.util;
+package dev.anvilcraft.patchouli.util;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import dev.anvilcraft.lib.recipe.component.ItemIngredientPredicate;

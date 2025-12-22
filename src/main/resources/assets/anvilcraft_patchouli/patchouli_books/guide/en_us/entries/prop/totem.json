@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.prop.totem",
-  "category": "anvilcraft:special_props",
+  "name": "title.anvilcraft_patchouli.patchouli.prop.totem",
+  "category": "anvilcraft_patchouli:special_props",
   "icon": "anvilcraft:totem_of_rage",
   "sortnum": 14008,
   "entry_color": "004400",
@@ -30,7 +30,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:prop/amulet_box"
+        "anvilcraft_patchouli:prop/amulet_box"
       ],
       "text": ""
     }

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.smithing.tier_2_materials",
-  "category": "anvilcraft:smithing_system",
+  "name": "title.anvilcraft_patchouli.patchouli.smithing.tier_2_materials",
+  "category": "anvilcraft_patchouli:smithing_system",
   "icon": "anvilcraft:ember_metal_ingot",
   "sortnum": 23006,
   "entry_color": "661100",
@@ -64,11 +64,11 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/mineral_fountain",        
-        "anvilcraft:advanced/tool_properties",
-        "anvilcraft:apply/oil",
-        "anvilcraft:apply/space_overcompressor",
-        "anvilcraft:power/store"
+        "anvilcraft_patchouli:struct/mineral_fountain",
+        "anvilcraft_patchouli:advanced/tool_properties",
+        "anvilcraft_patchouli:apply/oil",
+        "anvilcraft_patchouli:apply/space_overcompressor",
+        "anvilcraft_patchouli:power/store"
       ],
       "text": ""
     }

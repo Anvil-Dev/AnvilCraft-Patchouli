@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.gem_transformation",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.gem_transformation",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "anvilcraft:melt_gem_bucket",
   "sortnum": 16001,
   "entry_color": "004400",
@@ -40,11 +40,11 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:machine/automation",
-        "anvilcraft:power/consumption",
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:basic/material",
-        "anvilcraft:apply/spawner"
+        "anvilcraft_patchouli:machine/automation",
+        "anvilcraft_patchouli:power/consumption",
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:basic/material",
+        "anvilcraft_patchouli:apply/spawner"
       ],
       "text": ""
     }

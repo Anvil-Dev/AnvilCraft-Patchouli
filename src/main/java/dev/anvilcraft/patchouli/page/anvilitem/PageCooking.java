@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem;
+package dev.anvilcraft.patchouli.page.anvilitem;
 
 import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;
 import dev.dubhe.anvilcraft.recipe.anvil.wrap.CookingRecipe;
@@ -11,6 +11,7 @@ public class PageCooking extends PageAnvilItemProcess<CookingRecipe> {
             CookingRecipe::getInputItems,
             CookingRecipe::getResultItems,
             recipe -> Blocks.CAULDRON.defaultBlockState(),
-            recipe -> Blocks.CAMPFIRE.defaultBlockState());
+            recipe -> Blocks.CAMPFIRE.defaultBlockState()
+        );
     }
 }

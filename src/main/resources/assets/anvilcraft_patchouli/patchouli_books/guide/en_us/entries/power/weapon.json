@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.weapon",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.weapon",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:tesla_tower",
   "sortnum": 12008,
   "entry_color": "004400",

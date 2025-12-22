@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.smithing.introduction",
-  "category": "anvilcraft:smithing_system",
+  "name": "title.anvilcraft_patchouli.patchouli.smithing.introduction",
+  "category": "anvilcraft_patchouli:smithing_system",
   "icon": "minecraft:smithing_table",
   "priority": "true",
   "sortnum": 3000,

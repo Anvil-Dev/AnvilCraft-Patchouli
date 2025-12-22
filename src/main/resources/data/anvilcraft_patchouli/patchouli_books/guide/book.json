@@ -1,0 +1,10 @@
+{
+    "name": "AnvilCraft Guild Book",
+    "landing_text": "patchouli.anvilcraft_patchouli.landing_text",
+    "version": "1",
+    "use_resource_pack": true,
+    "dont_generate_book": true,
+    "i18n": true,
+    "book_texture": "anvilcraft_patchouli:textures/gui/patchouli/book.png",
+    "custom_book_item": "anvilcraft:guide_book"
+}

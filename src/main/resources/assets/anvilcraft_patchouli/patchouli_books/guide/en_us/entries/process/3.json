@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.3",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.3",
+  "category": "anvilcraft_patchouli:process",
   "icon": "minecraft:anvil",
   "sortnum": 3,
   "pages": [
@@ -65,8 +65,8 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:basic/block_processing",
-        "anvilcraft:basic/item_processing"
+        "anvilcraft_patchouli:basic/block_processing",
+        "anvilcraft_patchouli:basic/item_processing"
       ],
       "text": "In the picture on the left, the stamping platform can be replaced with other blocks. Block such as campfire can also be added below. For detailed processing categories, see the relevant chapters on anvil processing."
     }

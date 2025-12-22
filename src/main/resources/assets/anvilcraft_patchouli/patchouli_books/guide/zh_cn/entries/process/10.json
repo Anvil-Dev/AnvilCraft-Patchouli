@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.10",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.10",
+  "category": "anvilcraft_patchouli:process",
   "icon": "minecraft:netherite_ingot",
   "sortnum": 10,
   "entry_color": "004400",
@@ -14,11 +14,11 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:basic/block_processing",
-        "anvilcraft:basic/item_processing",
-        "anvilcraft:basic/minerals",
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:apply/item_regeneration"
+        "anvilcraft_patchouli:basic/block_processing",
+        "anvilcraft_patchouli:basic/item_processing",
+        "anvilcraft_patchouli:basic/minerals",
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:apply/item_regeneration"
       ],
       "text": ""
     }

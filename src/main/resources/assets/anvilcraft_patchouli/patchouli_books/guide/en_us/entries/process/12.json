@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.12",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.12",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:capacitor",
   "sortnum": 12,
   "entry_color": "661100",
@@ -9,9 +9,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:power/heat_collection",
-        "anvilcraft:power/void_energy_collection",
-        "anvilcraft:machine/electricity_generation"
+        "anvilcraft_patchouli:power/heat_collection",
+        "anvilcraft_patchouli:power/void_energy_collection",
+        "anvilcraft_patchouli:machine/electricity_generation"
       ],
       "text": ""
     }

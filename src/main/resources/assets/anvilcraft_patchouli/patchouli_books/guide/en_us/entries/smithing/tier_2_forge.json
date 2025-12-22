@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.smithing.tier_2_forge",
-  "category": "anvilcraft:smithing_system",
+  "name": "title.anvilcraft_patchouli.patchouli.smithing.tier_2_forge",
+  "category": "anvilcraft_patchouli:smithing_system",
   "icon": "anvilcraft:ember_smithing_table",
   "sortnum": 23007,
   "entry_color": "661100",
@@ -95,9 +95,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/tier_2_materials",
-        "anvilcraft:advanced/tool_properties",
-        "anvilcraft:prop/amulet"
+        "anvilcraft_patchouli:smithing/tier_2_materials",
+        "anvilcraft_patchouli:advanced/tool_properties",
+        "anvilcraft_patchouli:prop/amulet"
       ],
       "text": ""
     }

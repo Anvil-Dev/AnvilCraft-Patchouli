@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.advanced.super_heating",
-  "category": "anvilcraft:advanced_features",
+  "name": "title.anvilcraft_patchouli.patchouli.advanced.super_heating",
+  "category": "anvilcraft_patchouli:advanced_features",
   "icon": "anvilcraft:heater",
   "sortnum": 7001,
   "pages": [
@@ -28,7 +28,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:power/consumption"
+        "anvilcraft_patchouli:power/consumption"
       ],
       "text": ""
     }

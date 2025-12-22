@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.large_electromagnet",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.large_electromagnet",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:acceleration_ring",
   "sortnum": 12006,
   "entry_color": "004400",
@@ -62,8 +62,8 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/multiblock",
-        "anvilcraft:struct/collision"
+        "anvilcraft_patchouli:struct/multiblock",
+        "anvilcraft_patchouli:struct/collision"
       ],
       "text": ""
     }

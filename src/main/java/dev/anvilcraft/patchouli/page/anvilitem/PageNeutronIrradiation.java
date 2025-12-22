@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem;
+package dev.anvilcraft.patchouli.page.anvilitem;
 
 import dev.dubhe.anvilcraft.init.block.ModBlocks;
 import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;

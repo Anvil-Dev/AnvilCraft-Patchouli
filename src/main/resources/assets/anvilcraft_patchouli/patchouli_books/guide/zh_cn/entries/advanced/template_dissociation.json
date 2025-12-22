@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.advanced.template_dissociation",
-  "category": "anvilcraft:advanced_features",
+  "name": "title.anvilcraft_patchouli.patchouli.advanced.template_dissociation",
+  "category": "anvilcraft_patchouli:advanced_features",
   "icon": "anvilcraft:eight_to_one_smithing_template",
   "sortnum": 37006,
   "entry_color": "660066",

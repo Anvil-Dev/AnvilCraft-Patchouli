@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.end_portal",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.end_portal",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "minecraft:end_portal_frame",
   "sortnum": 1010,
   "pages": [

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.advanced.heated_block",
-  "category": "anvilcraft:advanced_features",
+  "name": "title.anvilcraft_patchouli.patchouli.advanced.heated_block",
+  "category": "anvilcraft_patchouli:advanced_features",
   "icon": "anvilcraft:glowing_tungsten_block",
   "sortnum": 17003,
   "entry_color": "004400",
@@ -28,7 +28,11 @@
     },
     {
       "type": "patchouli:spotlight",
-      "item": ["anvilcraft:redhot_tungsten_block","anvilcraft:glowing_netherite_block","anvilcraft:incandescent_tungsten_block"],
+      "item": [
+        "anvilcraft:redhot_tungsten_block",
+        "anvilcraft:glowing_netherite_block",
+        "anvilcraft:incandescent_tungsten_block"
+      ],
       "title": "高温方块",
       "text": "不是$(thing)普通$()等级的可加热方块称为$(thing)高温方块$()，可以为$(l:power/heat_collection#unchanged_block)集热器$()提供给热量以发电。$(br2)$(thing)红热$()、$(thing)炽热$()、$(thing)白炽$()等级的方块会烫伤踩在上面的生物，分别造成1, 2, 4点伤害。 $(br2)$(thing)红热$()、$(thing)炽热$()、$(thing)白炽$()等级的方块接触水一段时间后，和海绵类似，蒸发距离4, 6, 8以内的水。"
     },
@@ -81,12 +85,36 @@
           "T": "anvilcraft:glowing_tungsten_block"
         },
         "pattern": [
-          [" M ", "T N", " M "],
-          [" S ", "S S", " T "],
-          [" N ", "M0M", " T "],
-          [" T ", "S N", " S "],
-          ["   ", " F ", "   "],
-          ["   ", " H ", "   "]
+          [
+            " M ",
+            "T N",
+            " M "
+          ],
+          [
+            " S ",
+            "S S",
+            " T "
+          ],
+          [
+            " N ",
+            "M0M",
+            " T "
+          ],
+          [
+            " T ",
+            "S N",
+            " S "
+          ],
+          [
+            "   ",
+            " F ",
+            "   "
+          ],
+          [
+            "   ",
+            " H ",
+            "   "
+          ]
         ]
       },
       "text": "此示意图为一个有效的结构"

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.struct.overseer",
-  "category": "anvilcraft:structural_engineering",
+  "name": "title.anvilcraft_patchouli.patchouli.struct.overseer",
+  "category": "anvilcraft_patchouli:structural_engineering",
   "icon": "anvilcraft:overseer",
   "sortnum": 15004,
   "entry_color": "004400",

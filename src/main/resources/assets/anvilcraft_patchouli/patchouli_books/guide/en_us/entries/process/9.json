@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.9",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.9",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:mineral_fountain",
   "sortnum": 9,
   "entry_color": "004400",
@@ -47,10 +47,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/mineral_fountain",
-        "anvilcraft:basic/more_device",
-        "anvilcraft:basic/block_processing",
-        "anvilcraft:power/laser_system"
+        "anvilcraft_patchouli:struct/mineral_fountain",
+        "anvilcraft_patchouli:basic/more_device",
+        "anvilcraft_patchouli:basic/block_processing",
+        "anvilcraft_patchouli:power/laser_system"
       ],
       "text": ""
     }

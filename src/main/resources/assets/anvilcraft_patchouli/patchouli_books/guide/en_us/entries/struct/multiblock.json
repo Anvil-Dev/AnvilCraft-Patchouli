@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.struct.multiblock",
-  "category": "anvilcraft:structural_engineering",
+  "name": "title.anvilcraft_patchouli.patchouli.struct.multiblock",
+  "category": "anvilcraft_patchouli:structural_engineering",
   "icon": "anvilcraft:giant_anvil",
   "sortnum": 15002,
   "entry_color": "004400",

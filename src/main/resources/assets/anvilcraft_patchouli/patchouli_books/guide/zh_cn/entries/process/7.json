@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.7",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.7",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:giant_anvil",
   "sortnum": 7,
   "entry_color": "004400",
@@ -14,9 +14,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:basic/more_device",
-        "anvilcraft:struct/multiblock"
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:basic/more_device",
+        "anvilcraft_patchouli:struct/multiblock"
       ],
       "text": ""
     }

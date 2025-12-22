@@ -1,6 +1,6 @@
 {
-    "name": "title.anvilcraft.patchouli.machine.resources_access",
-    "category": "anvilcraft:machine_example",
+    "name": "title.anvilcraft_patchouli.patchouli.machine.resources_access",
+    "category": "anvilcraft_patchouli:machine_example",
     "icon": "minecraft:grass_block",
 	"sortnum": 5001,
     "pages": [
@@ -66,19 +66,19 @@
 			"type": "patchouli:image",
             "text": "$(n)$(5)对着箱子的磁性溜槽$()要设置为只允许$(n)$(5)铁与虞美人$()通过，防止铁砧被错误的吸进箱子导致刷铁机运行中断。",
 			"title":"底部如何设置 1",
-			"images": ["anvilcraft:patchouli_images/5.1_1.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_1.png"]
 		},
 		{
 			"type": "patchouli:image",
             "text": "$(n)$(5)对着发射器的磁性溜槽$()要设置为只允许$(n)$(5)铁$()通过，确保铁优先供给铁傀儡的修复，同时不会被虞美人干扰。",
 			"title":"底部如何设置 2",
-			"images": ["anvilcraft:patchouli_images/5.1_2.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_2.png"]
 		},
 		{
 			"type": "patchouli:image",
             "text": "$(n)$(5)对着投掷器的磁性溜槽$()要设置为只允许$(n)$(5)铁砧$()通过，防止铁或花被错误的吸进投掷器导致刷铁机运行中断。",
 			"title":"底部如何设置 3",
-			"images": ["anvilcraft:patchouli_images/5.1_3.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_3.png"]
 		},
 		{
             "type": "patchouli:multiblock",
@@ -218,7 +218,7 @@
 			"type": "patchouli:image",
             "text": "除去控制动力铁轨的两根拉杆，机器由三根拉杆控制模式的切换。",
 			"title":"如何使用三模式砸沙机",
-			"images": ["anvilcraft:patchouli_images/5.1_7.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_7.png"]
 		},
 		{
             "type": "patchouli:text",
@@ -525,7 +525,7 @@
             "type": "patchouli:image",
             "text": "来给树场的溜槽编个号吧，毕竟它们很多，且用处与设置各不相同。",
 			"title": "树场收集的设置 1",
-			"images": ["anvilcraft:patchouli_images/5.1_4.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_4.png"]
         },
 		{
             "type": "patchouli:text",
@@ -541,7 +541,7 @@
             "type": "patchouli:image",
             "text": "这是另一个方向的视角，上页已经标号的溜槽不会再标注。",
 			"title": "树场收集的设置 2",
-			"images": ["anvilcraft:patchouli_images/5.1_5.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_5.png"]
 		},
 		{
             "type": "patchouli:text",
@@ -552,7 +552,7 @@
             "type": "patchouli:image",
             "text": "1号：$(l)$(5)上升沿，延迟3，输出4$()$(br)2号：$(l)$(d)默认$()$(br)3号：$(l)$(5)循环，间隔5，输出3",
 			"title": "脉冲发生器的设置",
-			"images": ["anvilcraft:patchouli_images/5.1_6.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.1_6.png"]
 		},
 				{
             "type": "patchouli:text",

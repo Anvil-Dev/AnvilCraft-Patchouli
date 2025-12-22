@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.item_processing",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.item_processing",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "minecraft:iron_ingot",
   "sortnum": 1002,
   "pages": [

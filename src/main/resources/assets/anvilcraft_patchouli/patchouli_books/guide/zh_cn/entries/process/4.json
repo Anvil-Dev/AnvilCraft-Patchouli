@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.4",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.4",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:magnetoelectric_core",
   "sortnum": 4,
   "pages": [
@@ -37,11 +37,11 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:power/introduction",
-        "anvilcraft:power/transmission",
-        "anvilcraft:power/basic_generation",
-        "anvilcraft:power/consumption",
-        "anvilcraft:machine/electricity_generation"
+        "anvilcraft_patchouli:power/introduction",
+        "anvilcraft_patchouli:power/transmission",
+        "anvilcraft_patchouli:power/basic_generation",
+        "anvilcraft_patchouli:power/consumption",
+        "anvilcraft_patchouli:machine/electricity_generation"
       ],
       "text": "对电力系统的详细介绍，可以查看$(thing)第二章：电力系统$()的基础章节。$(br)本书也会向你介绍前期可用发电机结构。"
     }

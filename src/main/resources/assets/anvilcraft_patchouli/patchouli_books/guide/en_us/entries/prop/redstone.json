@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.prop.redstone",
-  "category": "anvilcraft:special_props",
+  "name": "title.anvilcraft_patchouli.patchouli.prop.redstone",
+  "category": "anvilcraft_patchouli:special_props",
   "icon": "minecraft:redstone",
   "sortnum": 4001,
   "pages": [

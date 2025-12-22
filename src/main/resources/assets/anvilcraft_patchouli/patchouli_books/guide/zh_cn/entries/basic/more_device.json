@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.more_device",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.more_device",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "anvilcraft:block_placer",
   "sortnum": 1005,
   "pages": [

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.16",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.16",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:transcendium_upgrade_smithing_template",
   "sortnum": 16,
   "entry_color": "660066",
@@ -9,9 +9,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/tier_2_forge",
-        "anvilcraft:smithing/tier_3_forge",
-        "anvilcraft:advanced/template_dissociation"
+        "anvilcraft_patchouli:smithing/tier_2_forge",
+        "anvilcraft_patchouli:smithing/tier_3_forge",
+        "anvilcraft_patchouli:advanced/template_dissociation"
       ],
       "text": ""
     }

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.structural_engineering",
-  "description": "intro.anvilcraft.patchouli.structural_engineering",
+  "name": "title.anvilcraft_patchouli.patchouli.structural_engineering",
+  "description": "intro.anvilcraft_patchouli.patchouli.structural_engineering",
   "sortnum": 5,
   "icon": "anvilcraft:heavy_iron_block"
 }

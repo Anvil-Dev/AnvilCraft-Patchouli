@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.8",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.8",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:melt_gem_bucket",
   "sortnum": 8,
   "entry_color": "004400",
@@ -9,10 +9,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:apply/gem_transformation",
-        "anvilcraft:machine/automation",
-        "anvilcraft:power/consumption",
-        "anvilcraft:apply/corrupted_beacon"
+        "anvilcraft_patchouli:apply/gem_transformation",
+        "anvilcraft_patchouli:machine/automation",
+        "anvilcraft_patchouli:power/consumption",
+        "anvilcraft_patchouli:apply/corrupted_beacon"
       ],
       "text": "更详细的加工流程可看$(l:apply/gem_transformation)宝石转化流程$()；可以使用手册自带的$(l:machine/automation#gem_machine)自动宝石再生机$()"
     }

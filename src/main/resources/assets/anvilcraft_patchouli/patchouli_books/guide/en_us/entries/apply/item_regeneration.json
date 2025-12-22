@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.item_regeneration",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.item_regeneration",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "minecraft:ancient_debris",
   "sortnum": 16002,
   "entry_color": "004400",

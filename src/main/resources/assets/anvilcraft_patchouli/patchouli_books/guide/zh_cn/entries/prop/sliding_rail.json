@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.prop.sliding_rail",
-  "category": "anvilcraft:special_props",
+  "name": "title.anvilcraft_patchouli.patchouli.prop.sliding_rail",
+  "category": "anvilcraft_patchouli:special_props",
   "icon": "anvilcraft:sliding_rail",
   "sortnum": 4004,
   "pages": [

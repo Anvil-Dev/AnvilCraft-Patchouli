@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.5",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.5",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:royal_steel_ingot",
   "sortnum": 5,
   "entry_color": "004400",
@@ -14,8 +14,8 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/tier_1_materials",
-        "anvilcraft:basic/material"
+        "anvilcraft_patchouli:smithing/tier_1_materials",
+        "anvilcraft_patchouli:basic/material"
       ],
       "text": ""
     }

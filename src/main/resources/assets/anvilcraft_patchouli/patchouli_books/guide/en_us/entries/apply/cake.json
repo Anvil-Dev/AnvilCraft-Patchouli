@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.cake",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.cake",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "anvilcraft:large_cake",
   "sortnum": 16005,
   "entry_color": "004400",
@@ -80,7 +80,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/multiblock"
+        "anvilcraft_patchouli:struct/multiblock"
       ],
       "text": "$(#666666)来试试巨型蛋糕自动化，成为自动化“糕”手$()"
     }

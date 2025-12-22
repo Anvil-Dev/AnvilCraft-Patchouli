@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.cement",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.cement",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "anvilcraft:reinforced_concrete_white",
   "sortnum": 6006,
   "pages": [

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.apply.spawner",
-  "category": "anvilcraft:technology_application",
+  "name": "title.anvilcraft_patchouli.patchouli.apply.spawner",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "minecraft:spawner",
   "sortnum": 16003,
   "entry_color": "004400",
@@ -62,10 +62,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:basic/material",
-        "anvilcraft:struct/multiblock",
-        "anvilcraft:smithing/jewelcrafting_table"
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:basic/material",
+        "anvilcraft_patchouli:struct/multiblock",
+        "anvilcraft_patchouli:smithing/jewelcrafting_table"
       ],
       "text": ""
     }

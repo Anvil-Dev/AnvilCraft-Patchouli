@@ -1,6 +1,6 @@
 {
-    "name": "title.anvilcraft.patchouli.machine.automation",
-    "category": "anvilcraft:machine_example",
+    "name": "title.anvilcraft_patchouli.patchouli.machine.automation",
+    "category": "anvilcraft_patchouli:machine_example",
     "icon": "minecraft:anvil",
 	"sortnum": 5002,
     "pages": [
@@ -94,7 +94,7 @@
         },
 		{
 			"type":"patchouli:image",
-			"images":["anvilcraft:patchouli_images/5.2_2.png"],
+			"images":["anvilcraft_patchouli:patchouli_images/5.2_2.png"],
 			"title":"脉冲发生器的设置",
 			"text":"脉冲发生器设置$(n)$(5)循环模式$()，每间隔$(n)$(5)8gt$()输出信号$(n)$(5)8gt$()，驱动机器运行。"
 		},
@@ -173,19 +173,19 @@
             "type": "patchouli:image",
             "text": "脉冲发生器设置$(l)$(5)循环模式$()，每间隔$(l)$(5)18gt$()输出信号$(l)$(5)4gt$()，控制机器运行。",
 			"title":"脉冲发生器的设置",
-			"images": ["anvilcraft:patchouli_images/5.2_3.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.2_3.png"]
 		},
 		{
             "type": "patchouli:image",
             "text": "$(item)对着锅的两个普通溜槽$()无需设置，$(item)磁性溜槽$()设置为只允许$(l)$(5)4种宝石块$()通过",
 			"title":"溜槽如何设置",
-			"images": ["anvilcraft:patchouli_images/5.2_4.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.2_4.png"]
 		},
 		{
             "type": "patchouli:image",
             "text": "连接$(item)发射器$()的$(item)普通溜槽$()设置为只允许宝石桶通过，$(item)磁性溜槽$()设置为只允许$(item)空桶$()通过",
 			"title":"溜槽如何设置",
-			"images": ["anvilcraft:patchouli_images/5.2_8.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.2_8.png"]
 		},
 		{
             "type": "patchouli:text",
@@ -238,7 +238,7 @@
             "type": "patchouli:image",
             "text": "$(item)普通溜槽$()无需设置，$(item)磁性溜槽$()设置为只允许$(4)红$()$(6)黄$()$(1)蓝$()3种宝石块$()通过",
 			"title":"溜槽如何设置",
-			"images": ["anvilcraft:patchouli_images/5.2_5.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.2_5.png"]
 		},
 		{
             "type": "patchouli:text",
@@ -316,7 +316,7 @@
             "type": "patchouli:image",
             "text": "溜槽这么多，先按图上的顺序编个号吧。",
 			"title":"给溜槽编个号",
-			"images": ["anvilcraft:patchouli_images/5.2_6.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.2_6.png"]
 		},
 		{
             "type": "patchouli:text",
@@ -327,7 +327,7 @@
             "type": "patchouli:image",
             "text": "脉冲发生器也这么多，先按图上的顺序编个号吧。",
 			"title":"给脉冲发生器编个号",
-			"images": ["anvilcraft:patchouli_images/5.2_7.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.2_7.png"]
 		},
 		{
             "type": "patchouli:text",

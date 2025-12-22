@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.11",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.11",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:ember_metal_ingot",
   "sortnum": 11,
   "entry_color": "661100",
@@ -19,10 +19,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/tier_2_materials",
-        "anvilcraft:apply/oil",
-        "anvilcraft:apply/spawner",
-        "anvilcraft:power/heat_collection"
+        "anvilcraft_patchouli:smithing/tier_2_materials",
+        "anvilcraft_patchouli:apply/oil",
+        "anvilcraft_patchouli:apply/spawner",
+        "anvilcraft_patchouli:power/heat_collection"
       ],
       "text": ""
     }

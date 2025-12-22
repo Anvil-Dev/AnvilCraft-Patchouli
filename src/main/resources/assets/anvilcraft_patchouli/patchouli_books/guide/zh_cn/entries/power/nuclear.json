@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.nuclear",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.nuclear",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:uranium_ingot",
   "sortnum": 32010,
   "entry_color": "660066",
@@ -28,10 +28,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/collision",
-        "anvilcraft:advanced/special_heated_block",
-        "anvilcraft:power/heat_collection",
-        "anvilcraft:smithing/tier_3_materials"
+        "anvilcraft_patchouli:struct/collision",
+        "anvilcraft_patchouli:advanced/special_heated_block",
+        "anvilcraft_patchouli:power/heat_collection",
+        "anvilcraft_patchouli:smithing/tier_3_materials"
       ],
       "text": ""
     }

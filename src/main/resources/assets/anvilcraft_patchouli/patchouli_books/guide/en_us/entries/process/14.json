@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.14",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.14",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:neutronium_ingot",
   "sortnum": 14,
   "entry_color": "661100",
@@ -9,10 +9,10 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/tier_2_materials",
-        "anvilcraft:apply/space_overcompressor",
-        "anvilcraft:apply/spawner",
-        "anvilcraft:power/weapon"
+        "anvilcraft_patchouli:smithing/tier_2_materials",
+        "anvilcraft_patchouli:apply/space_overcompressor",
+        "anvilcraft_patchouli:apply/spawner",
+        "anvilcraft_patchouli:power/weapon"
       ],
       "text": ""
     }

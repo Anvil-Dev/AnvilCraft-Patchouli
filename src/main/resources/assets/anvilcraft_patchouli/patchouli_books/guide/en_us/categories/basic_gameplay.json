@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic_gameplay",
-  "description": "intro.anvilcraft.patchouli.basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic_gameplay",
+  "description": "intro.anvilcraft_patchouli.patchouli.basic_gameplay",
   "sortnum": 1,
   "icon": "minecraft:anvil"
 }

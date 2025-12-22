@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.prop.pill",
-  "category": "anvilcraft:special_props",
+  "name": "title.anvilcraft_patchouli.patchouli.prop.pill",
+  "category": "anvilcraft_patchouli:special_props",
   "icon": "anvilcraft:pill",
   "sortnum": 4006,
   "pages": [

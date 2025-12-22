@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.item_regeneration",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.item_regeneration",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "minecraft:quartz",
   "sortnum": 1009,
   "extra_recipe_mappings": {

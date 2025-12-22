@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.advanced.special_heated_block",
-  "category": "anvilcraft:advanced_features",
+  "name": "title.anvilcraft_patchouli.patchouli.advanced.special_heated_block",
+  "category": "anvilcraft_patchouli:advanced_features",
   "icon": "anvilcraft:overheated_ember_metal_block",
   "sortnum": 27005,
   "entry_color": "661100",
@@ -9,8 +9,8 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:advanced/heated_block",
-        "anvilcraft:struct/collision"
+        "anvilcraft_patchouli:advanced/heated_block",
+        "anvilcraft_patchouli:struct/collision"
       ],
       "text": "阅读此章节前，请先查看前置章节"
     },

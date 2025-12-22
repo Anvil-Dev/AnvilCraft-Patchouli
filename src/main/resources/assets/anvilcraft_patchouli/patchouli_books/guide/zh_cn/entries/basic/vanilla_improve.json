@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.vanilla_improve",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.vanilla_improve",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "minecraft:dispenser",
   "sortnum": 1004,
   "pages": [

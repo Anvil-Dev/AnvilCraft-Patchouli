@@ -1,6 +1,6 @@
 {
-    "name": "title.anvilcraft.patchouli.machine_example",
-    "description": "intro.anvilcraft.patchouli.machine_example",
+    "name": "title.anvilcraft_patchouli.patchouli.machine_example",
+    "description": "intro.anvilcraft_patchouli.patchouli.machine_example",
     "sortnum": 8,
     "icon": "anvilcraft:pulse_generator"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.struct.mineral_fountain",
-  "category": "anvilcraft:structural_engineering",
+  "name": "title.anvilcraft_patchouli.patchouli.struct.mineral_fountain",
+  "category": "anvilcraft_patchouli:structural_engineering",
   "icon": "anvilcraft:mineral_fountain",
   "sortnum": 15001,
   "entry_color": "004400",
@@ -129,12 +129,12 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:basic/minerals",
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:power/laser_system",
-        "anvilcraft:power/void_energy_collection",
-        "anvilcraft:advanced/heated_block",
-        "anvilcraft:smithing/tier_2_materials"
+        "anvilcraft_patchouli:basic/minerals",
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:power/laser_system",
+        "anvilcraft_patchouli:power/void_energy_collection",
+        "anvilcraft_patchouli:advanced/heated_block",
+        "anvilcraft_patchouli:smithing/tier_2_materials"
       ],
       "text": ""
     }

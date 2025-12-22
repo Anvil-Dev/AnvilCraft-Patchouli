@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.negative_matter",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.negative_matter",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:negative_matter",
   "sortnum": 32009,
   "entry_color": "660066",
@@ -24,9 +24,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:struct/collision",
-        "anvilcraft:power/void_energy_collection",
-        "anvilcraft:smithing/tier_3_materials"
+        "anvilcraft_patchouli:struct/collision",
+        "anvilcraft_patchouli:power/void_energy_collection",
+        "anvilcraft_patchouli:smithing/tier_3_materials"
       ],
       "text": ""
     }

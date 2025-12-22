@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.1",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.1",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:geode",
   "sortnum": 1,
   "pages": [
@@ -8,9 +8,9 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:basic/material",
-        "anvilcraft:basic/amethyst_tools",
-        "anvilcraft:machine/resources_access"
+        "anvilcraft_patchouli:basic/material",
+        "anvilcraft_patchouli:basic/amethyst_tools",
+        "anvilcraft_patchouli:machine/resources_access"
       ]
     }
   ]

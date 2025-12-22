@@ -1,6 +1,6 @@
 {
-    "name": "title.anvilcraft.patchouli.machine.electricity_generation",
-    "category": "anvilcraft:machine_example",
+    "name": "title.anvilcraft_patchouli.patchouli.machine.electricity_generation",
+    "category": "anvilcraft_patchouli:machine_example",
     "icon": "anvilcraft:charge_collector",
 	"sortnum": 5003,
     "pages": [
@@ -54,7 +54,7 @@
             "type": "patchouli:image",
             "text": "脉冲发生器设置$(n)$(5)循环模式$()，每间隔$(n)$(5)5gt$()输出信号$(n)$(5)5gt$()，控制铁砧下落。",
 			"title": "脉冲发生器的设置",
-			"images": ["anvilcraft:patchouli_images/5.3_1.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.3_1.png"]
         },
 		{
             "type": "patchouli:text",
@@ -107,7 +107,7 @@
             "type": "patchouli:image",
             "text": "脉冲发生器设置$(n)$(5)循环模式$()，每间隔$(n)$(5)4gt$()输出信号$(n)$(5)9gt$()，控制皇家铁砧下弹。",
 			"title": "脉冲发生器的设置",
-			"images": ["anvilcraft:patchouli_images/5.3_2.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.3_2.png"]
         },
 		{
             "type": "patchouli:text",
@@ -162,7 +162,7 @@
             "type": "patchouli:image",
             "text": "$(n)$(5)所有$()脉冲发生器都设置$(n)$(5)循环模式$()，每间隔$(n)$(5)4gt$()输出信号$(n)$(5)1gt$()，控制幻灵铁砧下落。",
 			"title": "脉冲发生器的设置",
-			"images": ["anvilcraft:patchouli_images/5.3_3.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.3_3.png"]
         },
 		{
             "type": "patchouli:text",
@@ -310,7 +310,7 @@
             "type": "patchouli:image",
             "text": "真是轻而易举啊，只要在$(item)热能收集器$()的范围内尽可能多的摆满你的$(item)铀块$()和$(item)钚块$()（",
 			"title": "核电，轻而易举啊！",
-			"images": ["anvilcraft:patchouli_images/5.3_4.png"]
+			"images": ["anvilcraft_patchouli:patchouli_images/5.3_4.png"]
         }
     ]
 }

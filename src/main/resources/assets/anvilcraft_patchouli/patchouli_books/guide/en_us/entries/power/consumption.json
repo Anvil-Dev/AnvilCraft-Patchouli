@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.power.consumption",
-  "category": "anvilcraft:power_system",
+  "name": "title.anvilcraft_patchouli.patchouli.power.consumption",
+  "category": "anvilcraft_patchouli:power_system",
   "icon": "anvilcraft:heater",
   "sortnum": 2003,
   "extra_recipe_mappings": {

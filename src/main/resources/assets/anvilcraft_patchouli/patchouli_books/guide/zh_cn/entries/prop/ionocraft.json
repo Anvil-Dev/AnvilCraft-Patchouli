@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.prop.ionocraft",
-  "category": "anvilcraft:special_props",
+  "name": "title.anvilcraft_patchouli.patchouli.prop.ionocraft",
+  "category": "anvilcraft_patchouli:special_props",
   "icon": "anvilcraft:ionocraft_backpack",
   "sortnum": 4002,
   "pages": [

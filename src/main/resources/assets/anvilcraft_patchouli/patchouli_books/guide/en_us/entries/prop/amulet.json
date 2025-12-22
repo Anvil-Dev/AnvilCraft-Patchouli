@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.prop.amulet",
-  "category": "anvilcraft:special_props",
+  "name": "title.anvilcraft_patchouli.patchouli.prop.amulet",
+  "category": "anvilcraft_patchouli:special_props",
   "icon": "anvilcraft:anvil_amulet",
   "sortnum": 4008,
   "pages": [
@@ -64,7 +64,7 @@
       "type": "anvilcraft:multiple_to_one_smithing",
       "title": "多合一护符",
       "recipe": "anvilcraft:four_to_one_smithing/gem_amulet",
-      "recipe2": "anvilcraft:four_to_one_smithing/nature_amulet"      
+      "recipe2": "anvilcraft:four_to_one_smithing/nature_amulet"
     },
     {
       "type":"patchouli:text",
@@ -73,7 +73,7 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:smithing/jewelcrafting_table"
+        "anvilcraft_patchouli:smithing/jewelcrafting_table"
       ]
     }
   ]

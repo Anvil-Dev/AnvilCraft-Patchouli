@@ -1,32 +1,33 @@
-package dev.dubhe.anvilcraft.integration.patchouli;
+package dev.anvilcraft.patchouli.client;
 
-import dev.anvilcraft.lib.integration.Integration;
+import dev.anvilcraft.patchouli.AnvilCraftPatchouli;
+import dev.anvilcraft.patchouli.page.PageAnvilCollisionCraft;
+import dev.anvilcraft.patchouli.page.PageBlockCompress;
+import dev.anvilcraft.patchouli.page.PageItemInject;
+import dev.anvilcraft.patchouli.page.PageJewelCrafting;
+import dev.anvilcraft.patchouli.page.PageMesh;
+import dev.anvilcraft.patchouli.page.PageMultipleToOneSmithing;
+import dev.anvilcraft.patchouli.page.anvilitem.PageBoiling;
+import dev.anvilcraft.patchouli.page.anvilitem.PageBulging;
+import dev.anvilcraft.patchouli.page.anvilitem.PageCooking;
+import dev.anvilcraft.patchouli.page.anvilitem.PageItemCompress;
+import dev.anvilcraft.patchouli.page.anvilitem.PageItemCrush;
+import dev.anvilcraft.patchouli.page.anvilitem.PageNeutronIrradiation;
+import dev.anvilcraft.patchouli.page.anvilitem.PageStamping;
+import dev.anvilcraft.patchouli.page.anvilitem.PageSuperHeating;
+import dev.anvilcraft.patchouli.page.anvilitem.PageTimeWarp;
+import dev.anvilcraft.patchouli.page.anvilitem.PageUnpack;
 import dev.dubhe.anvilcraft.AnvilCraft;
-import dev.dubhe.anvilcraft.integration.patchouli.page.PageAnvilCollisionCraft;
-import dev.dubhe.anvilcraft.integration.patchouli.page.PageBlockCompress;
-import dev.dubhe.anvilcraft.integration.patchouli.page.PageItemInject;
-import dev.dubhe.anvilcraft.integration.patchouli.page.PageJewelCrafting;
-import dev.dubhe.anvilcraft.integration.patchouli.page.PageMesh;
-import dev.dubhe.anvilcraft.integration.patchouli.page.PageMultipleToOneSmithing;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageBoiling;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageBulging;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageCooking;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageItemCompress;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageItemCrush;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageNeutronIrradiation;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageStamping;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageSuperHeating;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageTimeWarp;
-import dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem.PageUnpack;
+import net.neoforged.api.distmarker.Dist;
+import net.neoforged.bus.api.IEventBus;
+import net.neoforged.fml.ModContainer;
+import net.neoforged.fml.common.Mod;
+import org.jetbrains.annotations.NotNull;
 import vazkii.patchouli.client.book.ClientBookRegistry;
 
-@SuppressWarnings("unused")
-@Integration("patchouli")
-public class PatchouliIntegration {
-    public void apply() {
-    }
-
-    public void applyClient() {
+@Mod(value = AnvilCraftPatchouli.MOD_ID, dist = Dist.CLIENT)
+public class AnvilCraftPatchouliClient {
+    public AnvilCraftPatchouliClient(@NotNull IEventBus modBus, @NotNull ModContainer container) {
         ClientBookRegistry.INSTANCE.pageTypes.put(AnvilCraft.of("time_warp"), PageTimeWarp.class);
         ClientBookRegistry.INSTANCE.pageTypes.put(AnvilCraft.of("neutron_irradiation"), PageNeutronIrradiation.class);
         ClientBookRegistry.INSTANCE.pageTypes.put(AnvilCraft.of("super_heating"), PageSuperHeating.class);

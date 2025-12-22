@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.basic.material",
-  "category": "anvilcraft:basic_gameplay",
+  "name": "title.anvilcraft_patchouli.patchouli.basic.material",
+  "category": "anvilcraft_patchouli:basic_gameplay",
   "icon": "anvilcraft:circuit_board",
   "sortnum": 1007,
   "extra_recipe_mappings": {
@@ -102,15 +102,15 @@
     {
       "type": "anvilcraft:super_heating",
       "anchor": "lime_powder",
-      "recipe": "anvilcraft:super_heating/lime_powder_from_crab_claw",
+      "recipe": "anvilcraft:super_heating/lime_powder/lime_powder_from_crab_claw",
       "text": "除了$(item)蟹钳$()，还可以熔炼以下物品得到：$(li)失活的珊瑚扇：1$(li)滴水石锥：1$(li)鹦鹉螺壳：1$(li)失活的珊瑚块：4$(li)滴水石块：4$(li)方解石：4"
     },
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:smithing/jewelcrafting_table",
-        "anvilcraft:basic/item_processing"
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:smithing/jewelcrafting_table",
+        "anvilcraft_patchouli:basic/item_processing"
       ],
       "text": ""
     }

@@ -1,4 +1,4 @@
-package dev.dubhe.anvilcraft.integration.patchouli.page.anvilitem;
+package dev.anvilcraft.patchouli.page.anvilitem;
 
 import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;
 import dev.dubhe.anvilcraft.recipe.anvil.wrap.UnpackRecipe;
@@ -11,6 +11,7 @@ public class PageUnpack extends PageAnvilItemProcess<UnpackRecipe> {
             UnpackRecipe::getInputItems,
             UnpackRecipe::getResultItems,
             recipe -> Blocks.IRON_TRAPDOOR.defaultBlockState(),
-            null);
+            null
+        );
     }
 }

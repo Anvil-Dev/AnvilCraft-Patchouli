@@ -1,6 +1,6 @@
 {
-  "name": "title.anvilcraft.patchouli.process.6",
-  "category": "anvilcraft:process",
+  "name": "title.anvilcraft_patchouli.patchouli.process.6",
+  "category": "anvilcraft_patchouli:process",
   "icon": "anvilcraft:corrupted_beacon",
   "sortnum": 6,
   "entry_color": "004400",
@@ -10,8 +10,8 @@
     {
       "type": "patchouli:relations",
       "entries": [
-        "anvilcraft:apply/corrupted_beacon",
-        "anvilcraft:smithing/jewelcrafting_table"
+        "anvilcraft_patchouli:apply/corrupted_beacon",
+        "anvilcraft_patchouli:smithing/jewelcrafting_table"
       ],
       "text": ""
     }

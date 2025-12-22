@@ -1,7 +1,7 @@
-package dev.dubhe.anvilcraft.integration.patchouli.util;
+package dev.anvilcraft.patchouli.util;
 
 import dev.anvilcraft.lib.recipe.component.ChanceItemStack;
-import dev.dubhe.anvilcraft.AnvilCraft;
+import dev.anvilcraft.patchouli.AnvilCraftPatchouli;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.level.storage.loot.providers.number.BinomialDistributionGenerator;
@@ -10,7 +10,7 @@ import vazkii.patchouli.api.PatchouliAPI;
 
 public class PatchouliUtil {
     public static void openBook(ServerPlayer player) {
-        PatchouliAPI.get().openBookGUI(player, AnvilCraft.of("guide"));
+        PatchouliAPI.get().openBookGUI(player, AnvilCraftPatchouli.of("guide"));
     }
 
     public static ItemStack getStack(ChanceItemStack stack) {
