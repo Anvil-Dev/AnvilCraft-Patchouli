@@ -3,6 +3,7 @@
   "category": "anvilcraft:power_system",
   "icon": "anvilcraft:magnetoelectric_core",
   "priority": "true",
+  "sortnum": 2000,
   "pages": [
     {
       "type": "patchouli:text",
@@ -15,6 +16,7 @@
     },
     {
       "type": "patchouli:crafting",
+      "anchor": "anvil_hammer",
       "recipe": "anvilcraft:anvil_hammer",
       "text": "$(item)铁砧锤$()是极其强大的工具，所有功能会在后文罗列。"
     },
