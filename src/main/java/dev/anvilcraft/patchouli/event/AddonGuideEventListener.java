@@ -4,6 +4,7 @@ import dev.anvilcraft.patchouli.AnvilCraftPatchouli;
 import dev.anvilcraft.patchouli.util.PatchouliUtil;
 import dev.dubhe.anvilcraft.api.event.CheckIntegrationLoadedEvent;
 import dev.dubhe.anvilcraft.api.event.GuideBookEvent;
+import net.neoforged.bus.api.EventPriority;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import vazkii.patchouli.api.PatchouliAPI;
@@ -22,8 +23,9 @@ public class AddonGuideEventListener {
         }
     }
 
-    @SubscribeEvent
+    @SubscribeEvent(priority = EventPriority.HIGHEST)
     public static void onOpenGuide(GuideBookEvent.OpenGuideBookEvent event) {
         PatchouliUtil.openBook(event.getPlayer());
+        event.setCanceled(true);
     }
 }
