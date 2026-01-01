@@ -2,6 +2,7 @@ package dev.anvilcraft.patchouli.util;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import dev.anvilcraft.lib.recipe.component.ItemIngredientPredicate;
+import dev.anvilcraft.patchouli.AnvilCraftPatchouli;
 import dev.dubhe.anvilcraft.AnvilCraft;
 import dev.dubhe.anvilcraft.client.support.RenderSupport;
 import dev.dubhe.anvilcraft.mixin.accessor.ScreenAccessor;
@@ -16,7 +17,7 @@ import vazkii.patchouli.client.book.gui.GuiBookEntry;
 
 public class PatchouliRenderHelper {
     public static final ResourceLocation CRAFTING = ResourceLocation.fromNamespaceAndPath(PatchouliAPI.MOD_ID, "textures/gui/crafting.png");
-    public static final ResourceLocation EXTRA = AnvilCraft.of("textures/gui/patchouli/crafting.png");
+    public static final ResourceLocation EXTRA = AnvilCraftPatchouli.of("textures/gui/patchouli/crafting.png");
 
     public static void renderCraftingCustomUV(GuiGraphics guiGraphics, int x, int y, float offsetU, float offsetV, int width, int height) {
         RenderSystem.enableBlend();
