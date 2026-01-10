@@ -9,7 +9,7 @@ import dev.dubhe.anvilcraft.block.state.Cube3x3PartHalf;
 import dev.dubhe.anvilcraft.block.state.GiantAnvilCube;
 import dev.dubhe.anvilcraft.client.support.RenderSupport;
 import dev.dubhe.anvilcraft.init.block.ModBlocks;
-import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;
+import dev.dubhe.anvilcraft.init.recipe.ModRecipeTypes;
 import dev.anvilcraft.patchouli.util.PatchouliRenderHelper;
 import dev.anvilcraft.patchouli.util.PatchouliUtil;
 import dev.dubhe.anvilcraft.mixin.accessor.ScreenAccessor;

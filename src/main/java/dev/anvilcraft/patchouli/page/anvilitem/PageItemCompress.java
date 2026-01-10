@@ -1,6 +1,6 @@
 package dev.anvilcraft.patchouli.page.anvilitem;
 
-import dev.dubhe.anvilcraft.init.reicpe.ModRecipeTypes;
+import dev.dubhe.anvilcraft.init.recipe.ModRecipeTypes;
 import dev.dubhe.anvilcraft.recipe.anvil.wrap.ItemCompressRecipe;
 import net.minecraft.world.level.block.Blocks;
 
