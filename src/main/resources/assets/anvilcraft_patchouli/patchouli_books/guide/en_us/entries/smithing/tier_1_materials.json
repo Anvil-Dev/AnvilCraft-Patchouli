@@ -16,11 +16,20 @@
       ],
       "link_recipe": true,
       "text": "$(item)Royal Steel Ingot$() has metallic and jewellic, high durability and enchantment affinity."
+    },{
+      "type": "anvilcraft_patchouli:super_heating",
+      "recipe": "anvilcraft:super_heating/royal_steel_ingot_base",
+      "recipe2": "anvilcraft:super_heating/royal_steel_block_base"
     },
     {
       "type": "anvilcraft_patchouli:super_heating",
-      "recipe": "anvilcraft:super_heating/royal_steel_ingot",
-      "recipe2": "anvilcraft:super_heating/royal_steel_block"
+      "recipe": "anvilcraft:super_heating/royal_steel_ingot_bonus_1",
+      "recipe2": "anvilcraft:super_heating/royal_steel_block_bonus_1"
+    },
+    {
+      "type": "anvilcraft_patchouli:super_heating",
+      "recipe": "anvilcraft:super_heating/royal_steel_ingot_bonus_1",
+      "recipe2": "anvilcraft:super_heating/royal_steel_block_bonus_1"
     },
     {
       "type": "patchouli:spotlight",
