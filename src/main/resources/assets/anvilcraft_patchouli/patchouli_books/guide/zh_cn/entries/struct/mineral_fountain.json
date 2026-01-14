@@ -34,12 +34,36 @@
           "0": "anvilcraft:sturdy_deepslate"
         },
         "pattern": [
-          ["   "," C ","   "],
-          [" B ","BBB"," B "],
-          ["ABA","B0B","ABA"],
-          ["BBB","BBB","BBB"],
-          ["BBB","BBB","BBB"],
-          ["BBB","BBB","BBB"]
+          [
+            "   ",
+            " C ",
+            "   "
+          ],
+          [
+            " B ",
+            "BBB",
+            " B "
+          ],
+          [
+            "ABA",
+            "B0B",
+            "ABA"
+          ],
+          [
+            "BBB",
+            "BBB",
+            "BBB"
+          ],
+          [
+            "BBB",
+            "BBB",
+            "BBB"
+          ],
+          [
+            "BBB",
+            "BBB",
+            "BBB"
+          ]
         ]
       },
       "text": "生成$(item)矿物涌泉$()高度固定为$(thing)世界最低高度+5$()。生成过程中会将$(item)基岩$()外的方块替换。"
@@ -56,8 +80,16 @@
           "0": "anvilcraft:arrow"
         },
         "pattern": [
-          ["       ", " B   A ", "       "],
-          [" T   T ", "TOT0TOT", " T   T "]
+          [
+            "       ",
+            " B   A ",
+            "       "
+          ],
+          [
+            " T   T ",
+            "TOT0TOT",
+            " T   T "
+          ]
         ]
       },
       "enable_visualize": false,
@@ -83,8 +115,16 @@
           "0": "anvilcraft:arrow"
         },
         "pattern": [
-          ["       ", " T     ", "       "],
-          [" T   T ", "TOT0TOT", " T   T "]
+          [
+            "       ",
+            " T     ",
+            "       "
+          ],
+          [
+            " T   T ",
+            "TOT0TOT",
+            " T   T "
+          ]
         ]
       },
       "enable_visualize": false,
@@ -102,8 +142,16 @@
           "0": "anvilcraft:arrow"
         },
         "pattern": [
-          ["       ", " B   A ", "       "],
-          [" T   T ", "TOT0TOT", " T   T "]
+          [
+            "       ",
+            " B   A ",
+            "       "
+          ],
+          [
+            " T   T ",
+            "TOT0TOT",
+            " T   T "
+          ]
         ]
       },
       "enable_visualize": false,
@@ -119,8 +167,16 @@
           "0": "anvilcraft:arrow"
         },
         "pattern": [
-          ["       ", " B     ", "       "],
-          ["       ", " O 0 O ", "       "]
+          [
+            "       ",
+            " B     ",
+            "       "
+          ],
+          [
+            "       ",
+            " O 0 O ",
+            "       "
+          ]
         ]
       },
       "enable_visualize": false,

@@ -9,7 +9,7 @@
       "type": "patchouli:multiblock",
       "anchor": "acceleration_ring",
       "name": "合成加速环",
-      "multiblock":{
+      "multiblock": {
         "mapping": {
           "A": "minecraft:copper_block",
           "B": "anvilcraft:heavy_iron_block",
@@ -17,9 +17,21 @@
           "D": "anvilcraft:tungsten_block"
         },
         "pattern": [
-          ["ABA","B B","ABA"],
-          ["CDC","D D","CDC"],
-          ["ABA","B0B","ABA"]
+          [
+            "ABA",
+            "B B",
+            "ABA"
+          ],
+          [
+            "CDC",
+            "D D",
+            "CDC"
+          ],
+          [
+            "ABA",
+            "B0B",
+            "ABA"
+          ]
         ]
       },
       "text": "通过$(l:struct/multiblock#conversion)多方块转化$()获得$(item)加速环$()"
@@ -41,9 +53,21 @@
           "B": "anvilcraft:heavy_iron_block"
         },
         "pattern": [
-          ["ABA","BAB","ABA"],
-          ["   ","   ","   "],
-          ["ABA","B0B","ABA"]
+          [
+            "ABA",
+            "BAB",
+            "ABA"
+          ],
+          [
+            "   ",
+            "   ",
+            "   "
+          ],
+          [
+            "ABA",
+            "B0B",
+            "ABA"
+          ]
         ]
       },
       "text": "通过$(l:struct/multiblock#conversion)多方块转化$()获得$(item)偏转环$()"

@@ -1,6 +1,6 @@
 {
   "name": "title.anvilcraft_patchouli.patchouli.apply.corrupted_beacon",
-  "category": "anvilcraft:technology_application",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "anvilcraft:corrupted_beacon",
   "sortnum": 16000,
   "entry_color": "004400",
@@ -28,44 +28,68 @@
           "M": "anvilcraft:hollow_magnet_block[lit=false]"
         },
         "pattern": [
-          ["   ", " M ", "   "],
-          ["   ", " A ", "   "],
-          ["   ", "   ", "   "],
-          ["   ", " C ", "   "],
-          ["   ", " B ", "   "],
-          ["GGG", "G0G", "GGG"]
+          [
+            "   ",
+            " M ",
+            "   "
+          ],
+          [
+            "   ",
+            " A ",
+            "   "
+          ],
+          [
+            "   ",
+            "   ",
+            "   "
+          ],
+          [
+            "   ",
+            " C ",
+            "   "
+          ],
+          [
+            "   ",
+            " B ",
+            "   "
+          ],
+          [
+            "GGG",
+            "G0G",
+            "GGG"
+          ]
         ]
       },
       "enable_visualize": "true",
       "text": "Time Warp operation requires lit Corrupted Beacon. This means if you want to use magnet block to control anvils on top, you need to use $(item)Hollow Magnet Block$()."
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/raw_copper",
       "text": "Metals can be transformed into coarse ores"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/budding_amethyst",
       "recipe2": "anvilcraft:time_warp/wither_skeleton_skull"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/wither_rose",
       "recipe2": "anvilcraft:time_warp/dirt"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/tuff",
       "recipe2": "anvilcraft:time_warp/calcite"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/soul_soil",
       "recipe2": "anvilcraft:time_warp/crying_obsidian"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/end_stone"
     }
   ]

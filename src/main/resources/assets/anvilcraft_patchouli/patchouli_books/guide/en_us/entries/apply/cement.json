@@ -13,7 +13,7 @@
       "text": "可以用来合成各种混凝土，且不会因此被消耗 $(p)$(#888888)长期以来，水泥作为一种重要的胶凝材料，广泛应用于土木建筑、水利、国防等工程$()"
     },
     {
-      "type": "anvilcraft:bulging",
+      "type": "anvilcraft_patchouli:bulging",
       "recipe": "anvilcraft:bulging/cement_cauldron",
       "title": "制作水泥",
       "text": "制作出的水泥默认为灰色，投入染料并砸击可染色。"

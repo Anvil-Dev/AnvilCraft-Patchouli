@@ -21,9 +21,21 @@
           "B": "anvilcraft:void_matter_block"
         },
         "pattern": [
-          ["AAA", "A A", "AAA"],
-          ["A A", " B ", "A A"],
-          ["AAA", "A0A", "AAA"]
+          [
+            "AAA",
+            "A A",
+            "AAA"
+          ],
+          [
+            "A A",
+            " B ",
+            "A A"
+          ],
+          [
+            "AAA",
+            "A0A",
+            "AAA"
+          ]
         ]
       },
       "text": "仅可以通过$(l:struct/multiblock#craft)多方块合成$()而来 $(p)论如何$(l:basic/item_regeneration#sponge)量产海绵$()"

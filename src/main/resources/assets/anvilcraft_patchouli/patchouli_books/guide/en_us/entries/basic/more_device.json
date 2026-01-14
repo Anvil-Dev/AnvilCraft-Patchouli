@@ -63,9 +63,21 @@
           "0": "anvilcraft:arrow"
         },
         "pattern": [
-          ["C C", "   ", "   "],
-          ["S C", "B A", "A A"],
-          ["S C", " 0 ", "   "]
+          [
+            "C C",
+            "   ",
+            "   "
+          ],
+          [
+            "S C",
+            "B A",
+            "A A"
+          ],
+          [
+            "S C",
+            " 0 ",
+            "   "
+          ]
         ]
       },
       "enable_visualize": "false",

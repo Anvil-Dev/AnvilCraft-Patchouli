@@ -7,7 +7,7 @@
   "pages": [
     "通过工业化生产，可以获得更加便携的罐头食品。$(br2)$(#666666)并非科技与狠活$()",
     {
-      "type": "anvilcraft:stamping",
+      "type": "anvilcraft_patchouli:stamping",
       "recipe": "anvilcraft:stamping/tin_can_from_plate",
       "text": "将$(item)锡压力板$()与$(item)皇家钢$()(不消耗)$(l:basic/item_processing#stamping)冲压$()得到锡罐"
     },

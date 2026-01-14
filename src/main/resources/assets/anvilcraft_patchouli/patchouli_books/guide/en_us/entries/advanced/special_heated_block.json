@@ -20,12 +20,12 @@
       "text": "$(item)超温的余烬金属块$()非常不稳定，往往只能维持一小段时间。且在冷却后，有$(thing)5%%$()的概率变为$(item)下界合金块$()。$(br)$(li)可以为$(l:power/heat_collection)集热器$()提供1024kW能量。$(li)烫伤踩在上面的生物，造成8点伤害。 $(li)接触水一段时间后，和海绵类似，蒸发距离10以内的水。"
     },
     {
-      "type": "anvilcraft:anvil_collision",
+      "type": "anvilcraft_patchouli:anvil_collision",
       "recipe": "anvilcraft:anvil_collision/anvil_tier_2_and_uranium_block_256",
       "text": "一次撞击会将附近最多16个余烬金属块加热为$(thing)超温$()，最多持续$(thing)20s$()。"
     },
     {
-      "type": "anvilcraft:anvil_collision",
+      "type": "anvilcraft_patchouli:anvil_collision",
       "recipe": "anvilcraft:anvil_collision/anvil_tier_2_and_plutonium_block_256",
       "text": "一次撞击会将附近最多16个余烬金属块加热为$(thing)超温$()，最多持续$(thing)60s$()。"
     }

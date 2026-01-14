@@ -25,20 +25,20 @@
       "text": "将通过$(l:struct/mineral_fountain#mineral_fountain)矿物涌泉$()得到的大量$(item)钨锭$()$(l:basic/item_processing#stamping)冲压$()为$(item)钨压力板$()，与$(item)下界合金碎片$()合成为$(item)下界合金晶核$()"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/ancient_debris",
       "title": "再生远古残骸",
       "text": "将$(item)下界合金晶核$()$(l:apply/corrupted_beacon#time_warp)时移$()为$(item)远古残骸$()。$(br)综上，$(item)远古残骸$()+2*$(item)钨锭$()→2*$(item)远古残骸$()"
     },
     {
-      "type": "anvilcraft:stamping",
+      "type": "anvilcraft_patchouli:stamping",
       "anchor": "sea_heart",
       "recipe": "anvilcraft:stamping/sea_heart_shell_shard",
       "title": "再生海洋之心",
       "text": "将$(item)海洋之心$()$(thing)冲压$()为平均4个$(item)海心壳碎片$()和1个$(item)蓝宝石$() $(p)$(#666666)图例暂时存在问题$()"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/sea_heart_shell",
       "title": "再生海洋之心",
       "text": "将$(item)海心壳碎片$()$(l:apply/corrupted_beacon#time_warp)时移$()为$(item)海心壳$()"
@@ -50,14 +50,14 @@
       "text": "通过$(l:basic/material)晶洞$()或$(l:apply/gem_transformation)宝石转化$()获取到更多$(item)蓝宝石$()后，与$(item)海心壳$()合成得到更多$(item)海洋之心$()。在此循环下，可以消耗蓝宝石再生海洋之心"
     },
     {
-      "type": "anvilcraft:bulging",
+      "type": "anvilcraft_patchouli:bulging",
       "anchor": "trident",
       "recipe": "anvilcraft:bulging/prismarine_cluster",
       "title": "制作三叉戟",
       "text": "多余的海心壳碎片也有用处。"
     },
     {
-      "type": "anvilcraft:stamping",
+      "type": "anvilcraft_patchouli:stamping",
       "recipe": "anvilcraft:stamping/prismarine_crystals",
       "title": "制作三叉戟",
       "text": "将$(item)海晶簇$()冲压为: $(li)平均2.5个海晶砂粒 $(li)1个海晶碎片 $(li)1个$(item)海晶刃$() $(p)$(#666666)图例暂时存在问题$()"
@@ -68,7 +68,7 @@
       "title": "制作三叉戟"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "anchor": "diamond",
       "recipe": "anvilcraft:time_warp/coal",
       "recipe2": "anvilcraft:time_warp/coal_from_logs",
@@ -76,7 +76,7 @@
       "text": ""
     },
     {
-      "type": "anvilcraft:super_heating",
+      "type": "anvilcraft_patchouli:super_heating",
       "recipe": "anvilcraft:super_heating/charcoal",
       "recipe2": "anvilcraft:super_heating/diamond",
       "title": "再生钻石&煤炭",
@@ -85,12 +85,15 @@
     {
       "type": "patchouli:spotlight",
       "anchor": "powder_snow",
-      "item": ["minecraft:powder_snow_bucket","minecraft:ice"],
+      "item": [
+        "minecraft:powder_snow_bucket",
+        "minecraft:ice"
+      ],
       "link_recipe": true,
       "text": "用铁砧砸击炼药锅上的$(item)雪块$()，会将其转化为$(item)冰$()，并在锅中留下一层细雪。$(br2)可以用皇家铁砧配合切石机自动$(l:basic/block_processing#break)精准采集$()冰块。"
     },
     {
-      "type": "anvilcraft:block_compress",
+      "type": "anvilcraft_patchouli:block_compress",
       "anchor": "ice",
       "recipe": "anvilcraft:block_compress/packed_ice",
       "recipe2": "anvilcraft:block_compress/blue_ice",

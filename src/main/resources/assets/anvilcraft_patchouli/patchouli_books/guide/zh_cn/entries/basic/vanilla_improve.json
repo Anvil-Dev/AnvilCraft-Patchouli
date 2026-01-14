@@ -18,9 +18,21 @@
           "C": "minecraft:lava_cauldron"
         },
         "pattern": [
-          ["   ", "   ", "   "],
-          ["A  ", " B ", "  C"],
-          ["   ", " 0 ", "   "]
+          [
+            "   ",
+            "   ",
+            "   "
+          ],
+          [
+            "A  ",
+            " B ",
+            "  C"
+          ],
+          [
+            "   ",
+            " 0 ",
+            "   "
+          ]
         ]
       },
       "enable_visualize": "false",
@@ -36,9 +48,21 @@
           "W": "minecraft:water_cauldron[level=3]"
         },
         "pattern": [
-          ["  ", "  ", "  "],
-          ["CD", "  ", "WD"],
-          ["  ", " 0", "  "]
+          [
+            "  ",
+            "  ",
+            "  "
+          ],
+          [
+            "CD",
+            "  ",
+            "WD"
+          ],
+          [
+            "  ",
+            " 0",
+            "  "
+          ]
         ]
       },
       "enable_visualize": "false",
@@ -58,7 +82,11 @@
     },
     {
       "type": "patchouli:spotlight",
-      "item": ["minecraft:anvil","minecraft:chipped_anvil","minecraft:damaged_anvil"],
+      "item": [
+        "minecraft:anvil",
+        "minecraft:chipped_anvil",
+        "minecraft:damaged_anvil"
+      ],
       "title": "铁砧修补术",
       "text": "手持铁块潜行右键可以修复铁砧。"
     }

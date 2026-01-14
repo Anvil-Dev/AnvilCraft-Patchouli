@@ -10,7 +10,7 @@
   "pages": [
     "本章节将会介绍哪些方块和物品可以用来存储电力",
     {
-      "type": "anvilcraft:item_compress",
+      "type": "anvilcraft_patchouli:item_compress",
       "anchor": "supercapacitor",
       "recipe": "anvilcraft:item_compress/supercapacitor_empty",
       "text": "使用含苦力怕的$(l:basic/material#resin_block)树脂块$(/l)合成 $(p)$(#666666)如果是闪电苦力怕，则合成出满能量的超级电容器，但有50%%概率在合成时爆炸$()"

@@ -18,7 +18,11 @@
       "type": "multiblock",
       "multiblock": {
         "pattern": [
-          ["RCR", "C0C", "RCR"]
+          [
+            "RCR",
+            "C0C",
+            "RCR"
+          ]
         ],
         "mapping": {
           "0": "anvilcraft:heavy_iron_block",

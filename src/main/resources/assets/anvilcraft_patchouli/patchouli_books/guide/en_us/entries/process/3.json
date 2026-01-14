@@ -19,10 +19,26 @@
           "G": "minecraft:gravel"
         },
         "pattern": [
-          ["   ", "D M", "P L"],
-          ["   ", "  A", "   "],
-          ["   ", "A  ", "   "],
-          ["   ", "G0C", "   "]
+          [
+            "   ",
+            "D M",
+            "P L"
+          ],
+          [
+            "   ",
+            "  A",
+            "   "
+          ],
+          [
+            "   ",
+            "A  ",
+            "   "
+          ],
+          [
+            "   ",
+            "G0C",
+            "   "
+          ]
         ]
       },
       "enable_visualize": "false",
@@ -52,11 +68,21 @@
           "B": "minecraft:smooth_stone"
         },
         "pattern": [
-          ["RR "],
-          ["DBM"],
-          ["ZDA"],
-          [" N "],
-          [" 0S"]
+          [
+            "RR "
+          ],
+          [
+            "DBM"
+          ],
+          [
+            "ZDA"
+          ],
+          [
+            " N "
+          ],
+          [
+            " 0S"
+          ]
         ]
       },
       "enable_visualize": "true",

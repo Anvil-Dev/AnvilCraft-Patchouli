@@ -28,44 +28,68 @@
           "M": "anvilcraft:hollow_magnet_block[lit=false]"
         },
         "pattern": [
-          ["   ", " M ", "   "],
-          ["   ", " A ", "   "],
-          ["   ", "   ", "   "],
-          ["   ", " C ", "   "],
-          ["   ", " B ", "   "],
-          ["GGG", "G0G", "GGG"]
+          [
+            "   ",
+            " M ",
+            "   "
+          ],
+          [
+            "   ",
+            " A ",
+            "   "
+          ],
+          [
+            "   ",
+            "   ",
+            "   "
+          ],
+          [
+            "   ",
+            " C ",
+            "   "
+          ],
+          [
+            "   ",
+            " B ",
+            "   "
+          ],
+          [
+            "GGG",
+            "G0G",
+            "GGG"
+          ]
         ]
       },
       "enable_visualize": "true",
       "text": "想要实现时移操作，腐化信标必须是激活状态。这意味着如果你想使用磁铁块控制顶上的铁砧，你必须使用$(item)空心磁铁块$()。"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/raw_copper",
       "text": "金属块可被时移为粗矿形式"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/budding_amethyst",
       "recipe2": "anvilcraft:time_warp/wither_skeleton_skull"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/wither_rose",
       "recipe2": "anvilcraft:time_warp/dirt"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/tuff",
       "recipe2": "anvilcraft:time_warp/calcite"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/soul_soil",
       "recipe2": "anvilcraft:time_warp/crying_obsidian"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "recipe": "anvilcraft:time_warp/end_stone"
     }
   ]

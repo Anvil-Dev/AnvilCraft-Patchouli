@@ -30,14 +30,46 @@
           "F": "anvilcraft:transparent_crafting_table"
         },
         "pattern": [
-          ["         ", "         ", "         "],
-          ["         ", " D       ", "         "],
-          ["         ", "       D ", "         "],
-          ["         ", "         ", "         "],
-          ["FFF   FFF", "FFF B FFF", "FFF   FFF"],
-          ["EEE      ", "EEE      ", "EEE      "],
-          ["         ", " C     D ", "         "],
-          ["AAA      ", "AAA 0    ", "AAA      "]
+          [
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "         ",
+            " D       ",
+            "         "
+          ],
+          [
+            "         ",
+            "       D ",
+            "         "
+          ],
+          [
+            "         ",
+            "         ",
+            "         "
+          ],
+          [
+            "FFF   FFF",
+            "FFF B FFF",
+            "FFF   FFF"
+          ],
+          [
+            "EEE      ",
+            "EEE      ",
+            "EEE      "
+          ],
+          [
+            "         ",
+            " C     D ",
+            "         "
+          ],
+          [
+            "AAA      ",
+            "AAA 0    ",
+            "AAA      "
+          ]
         ]
       },
       "enable_visualize": false,
