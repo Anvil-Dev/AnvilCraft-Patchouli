@@ -19,7 +19,7 @@
   "pages": [
     "本章将介绍如何锻造: $(li)$(l:smithing/tier_2_forge#ember_smithing_table)余烬工作方块$(/l) $(li)$(l:smithing/tier_2_forge#ember_metal_tools)余烬工具$() $(li)$(l:smithing/tier_2_forge#frost_metal_tools)浮霜工具$() $(li)$(l:smithing/tier_2_forge#amulet)四合一护符$() $(p)余烬工具特性：$(l:advanced/tool_properties#reforging)重铸$(/l) $(br)浮霜工具特性：$(l:advanced/tool_properties#merciless)无情$(/l)",
     {
-      "type": "anvilcraft:stamping",
+      "type": "anvilcraft_patchouli:stamping",
       "title": "余烬锻造模板",
       "recipe": "anvilcraft:stamping/ember_metal_upgrade_smithing_template",
       "text": "用于将$(thing)皇家钢工具$()升级为$(thing)余烬金属工具$()"
@@ -61,7 +61,7 @@
       "text": "使用$(item)余烬金属块$()配合$(item)余烬锻造模板$()升级的工具，将自带$(l:advanced/tool_properties#reforging)重铸$(/l)属性。"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "title": "浮霜锻造模板",
       "recipe": "anvilcraft:time_warp/frost_metal_upgrade_smithing_template",
       "text": "用于将$(thing)皇家钢工具$()升级为$(thing)浮霜金属工具$()。"
@@ -82,13 +82,13 @@
       "text": "$(li)将多个互不相同的$(thing)锻造模板$()进行物品冲压加工获得，由模板数量决定获得的是几合一锻造模板 $(li)用于在$(item)余烬锻造台$()上参与多合一锻造"
     },
     {
-      "type": "anvilcraft:multiple_to_one_smithing",
+      "type": "anvilcraft_patchouli:multiple_to_one_smithing",
       "anchor": "amulet",
       "recipe": "anvilcraft:four_to_one_smithing/gem_amulet",
       "text": "合成而来的护符同时具有四种护符的功能，占用护符盒的3*3个槽位"
     },
     {
-      "type": "anvilcraft:multiple_to_one_smithing",
+      "type": "anvilcraft_patchouli:multiple_to_one_smithing",
       "recipe": "anvilcraft:four_to_one_smithing/nature_amulet",
       "text": "合成而来的护符同时具有四种护符的功能，占用护符盒的3*3个槽位"
     },

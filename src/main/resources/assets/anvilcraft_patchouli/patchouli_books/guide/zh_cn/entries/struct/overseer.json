@@ -32,12 +32,36 @@
           "M": "anvilcraft:overseer[half=top,level=2]"
         },
         "pattern": [
-          ["   ", " M ", "   "],
-          ["   ", " L ", "   "],
-          ["   ", " K ", "   "],
-          ["FIA", "HDE", "BJC"],
-          ["ADF", "B0C", "CEG"],
-          ["   ", "   ", "   "]
+          [
+            "   ",
+            " M ",
+            "   "
+          ],
+          [
+            "   ",
+            " L ",
+            "   "
+          ],
+          [
+            "   ",
+            " K ",
+            "   "
+          ],
+          [
+            "FIA",
+            "HDE",
+            "BJC"
+          ],
+          [
+            "ADF",
+            "B0C",
+            "CEG"
+          ],
+          [
+            "   ",
+            "   ",
+            "   "
+          ]
         ]
       },
       "enable_visualize": "false",

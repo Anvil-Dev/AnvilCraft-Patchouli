@@ -20,9 +20,21 @@
           "G": "minecraft:granite"
         },
         "pattern": [
-          ["       "," V   V ","       "],
-          [" V   V ","VGVAVVV","       "],
-          ["       "," V 0 V ","       "]
+          [
+            "       ",
+            " V   V ",
+            "       "
+          ],
+          [
+            " V   V ",
+            "VGVAVVV",
+            "       "
+          ],
+          [
+            "       ",
+            " V 0 V ",
+            "       "
+          ]
         ]
       },
       "enable_visualize": false,

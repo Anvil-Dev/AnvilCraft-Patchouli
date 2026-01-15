@@ -13,7 +13,7 @@
       "text": "$(item)重戟$()融合了剑、斧、重锤和三叉戟的特性，是一个强力的武器。 $(br2)$(item)重戟核心$()是合成重戟的核心材料。"
     },
     {
-      "type": "anvilcraft:multiple_to_one_smithing",
+      "type": "anvilcraft_patchouli:multiple_to_one_smithing",
       "recipe": "anvilcraft:four_to_one_smithing/frost_metal_heavy_halberd",
       "recipe2": "anvilcraft:four_to_one_smithing/ember_metal_heavy_halberd"
     },
@@ -34,7 +34,7 @@
       "text": "$(item)共振器$()融合了斧、镐、锹、锄的特性，是一个强力的工具。 $(br2)$(item)共振器核心$()是合成共振器的核心材料。"
     },
     {
-      "type": "anvilcraft:multiple_to_one_smithing",
+      "type": "anvilcraft_patchouli:multiple_to_one_smithing",
       "recipe": "anvilcraft:four_to_one_smithing/frost_metal_resonator",
       "recipe2": "anvilcraft:four_to_one_smithing/ember_metal_resonator"
     },
@@ -54,7 +54,7 @@
       "text": "共振器不会完全损坏，类似于鞘翅，它会失去所有增益、功能等效果，攻击伤害变为0，附魔大部分失效，浮霜带来的$(thing)无情$()也会失效。"
     },
     {
-      "type": "anvilcraft:multiple_to_one_smithing",
+      "type": "anvilcraft_patchouli:multiple_to_one_smithing",
       "anchor": "multitool",
       "recipe": "anvilcraft:eight_to_one_smithing/multitool",
       "text": "携带了八个工具的所有功能，按住[$(k:anvilcraft.switch_resonate_mode)]可以打开一个轮盘选择界面。 $(p)默认全选模式下使用反而会对自己造成伤害，选择其他功能后，可作为对应工具使用。"
@@ -79,7 +79,7 @@
       "text": "继承了余烬铁砧的锻造能力 $(li)合并附魔时，无视附魔等级上限 $(li)挖掘方块时，自带时运V $(li)杀伤生物视为玩家杀伤，且掉落更多"
     },
     {
-      "type": "anvilcraft:multiple_to_one_smithing",
+      "type": "anvilcraft_patchouli:multiple_to_one_smithing",
       "recipe": "anvilcraft:two_to_one_smithing/transcendence_resonator",
       "recipe2": "anvilcraft:two_to_one_smithing/transcendence_heavy_halberd"
     },

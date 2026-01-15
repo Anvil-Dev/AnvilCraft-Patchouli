@@ -8,7 +8,10 @@
     "本章节将会讲述：$(li)如何借助核能产生大量的电力 $(p)$(#880000)注意$():携带18组铀/钚(块/锭/粒)会受到凋零效果",
     {
       "type": "patchouli:spotlight",
-      "item": ["anvilcraft:plutonium_block","anvilcraft:uranium_block"],
+      "item": [
+        "anvilcraft:plutonium_block",
+        "anvilcraft:uranium_block"
+      ],
       "title": "放射性同位素热电机 RTG",
       "text": "铀块和钚块可以为$(l:power/heat_collection)集热器$()提供热能用以发电: $(li)$(item)铀块$():2kW $(li)$(item)钚块$():8kW"
     },

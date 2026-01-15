@@ -1,6 +1,6 @@
 {
   "name": "title.anvilcraft_patchouli.patchouli.apply.enchantment_copy",
-  "category": "anvilcraft:technology_application",
+  "category": "anvilcraft_patchouli:technology_application",
   "icon": "minecraft:enchanted_book",
   "sortnum": 36001,
   "entry_color": "660066",

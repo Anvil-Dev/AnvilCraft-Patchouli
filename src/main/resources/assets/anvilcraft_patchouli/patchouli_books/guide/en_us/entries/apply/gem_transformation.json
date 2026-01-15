@@ -17,7 +17,7 @@
       "title": "自动宝石转化"
     },
     {
-      "type": "anvilcraft:super_heating",
+      "type": "anvilcraft_patchouli:super_heating",
       "recipe": "anvilcraft:super_heating/melt_gem_cauldron",
       "text": "将$(item)绿宝石块$()高温加热以融化为一锅$(item)熔融宝石$()。"
     },
@@ -27,7 +27,7 @@
       "text": "$(li)熔融宝石流动部分与水接触时随机变为【闪长岩、安山岩、花岗岩】中的一种$(li)熔融宝石源头与水接触时变为陶瓦$(li)熔融宝石流体落到水上时，水变为石头"
     },
     {
-      "type": "anvilcraft:time_warp",
+      "type": "anvilcraft_patchouli:time_warp",
       "title": "宝石块",
       "recipe": "anvilcraft:time_warp/ruby_block",
       "text": "将锅下的$(item)加热器$()换成激活的$(item)腐化信标$()，或者将$(item)熔融宝石$()舀入另一口下有激活的$(item)腐化信标$()的锅。$(br)1颗$(thing)宝石$()加上1锅熔融宝石，可以被$(thing)时移$()为1块$(thing)宝石块$()。"

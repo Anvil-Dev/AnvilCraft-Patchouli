@@ -48,12 +48,12 @@
       "text": "$(li)闪长岩+圆石→$(item)安山岩$()[合成]$(li)安山岩→$(item)火山灰$()[$(l:basic/block_processing#crush)粉碎$()]$(li)火山灰→$(item)青金石$()+$(item)火药$()+$(item)铅/锡/锌/银粒$()[$(l:basic/item_processing#mesh)筛选$()]"
     },
     {
-      "type": "anvilcraft:unpack",
+      "type": "anvilcraft_patchouli:unpack",
       "anchor": "sponge_gemmule",
       "recipe": "anvilcraft:unpack/sponge_gemmule"
     },
     {
-      "type": "anvilcraft:bulging",
+      "type": "anvilcraft_patchouli:bulging",
       "anchor": "sponge",
       "recipe": "anvilcraft:bulging/wet_sponge"
     },
@@ -65,14 +65,14 @@
       "text": "$(item)坚守者$()使用$(thing)声波攻击$()杀死任意生物，会生成1个$(item)回响碎片$()"
     },
     {
-      "type": "anvilcraft:super_heating",
+      "type": "anvilcraft_patchouli:super_heating",
       "anchor": "lava",
       "recipe": "anvilcraft:super_heating/lava_from_cobblestone",
       "recipe2": "anvilcraft:super_heating/lava_from_stone",
       "title": "再生熔岩"
     },
     {
-      "type": "anvilcraft:boiling",
+      "type": "anvilcraft_patchouli:boiling",
       "anchor": "slime_ball",
       "recipe": "anvilcraft:boiling/slime_ball"
     }
